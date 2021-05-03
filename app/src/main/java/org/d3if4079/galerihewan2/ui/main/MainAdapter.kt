@@ -1,9 +1,9 @@
-package org.d3if4079.galerihewan2
+package org.d3if4079.galerihewan2.ui.main
 
 import android.support.v7.widget.RecyclerView
-import android.text.Layout
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import org.d3if4079.galerihewan2.model.Hewan
 import org.d3if4079.galerihewan2.databinding.ListItemBinding
 
 
