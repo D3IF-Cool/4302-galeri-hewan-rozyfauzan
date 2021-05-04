@@ -3,4 +3,5 @@
     <string name="Hewan">Angsa</string>
     <string name="namaLatin">Cygnus olor</string>
     <string name="jenisHewan">Hewan Unggas</string>
+    <string name="koneksi_error">Koneksi error</string>
 </resources>
