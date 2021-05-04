@@ -34,8 +34,5 @@ interface HewanApiService {
         }
     }
 
-enum class ApiStatus {
-    LOADING,
-    SUCCESS,
-    FAILED
-}
+
+enum class ApiStatus { LOADING, SUCCESS, FAILED }

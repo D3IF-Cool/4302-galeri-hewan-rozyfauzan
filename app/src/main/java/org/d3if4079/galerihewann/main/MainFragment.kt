@@ -17,8 +17,9 @@ class MainFragment : Fragment()  {
           ViewModelProvider(this).get(MainViewModel::class.java)
       }
 
-        private lateinit var binding : FragmentMainBinding
-      private lateinit var myAdapter: MainAdapter
+    private lateinit var binding : FragmentMainBinding
+
+      private lateinit var myAdapter : MainAdapter
 
 
         override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {

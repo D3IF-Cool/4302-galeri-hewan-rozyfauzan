@@ -6,4 +6,4 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="org.d3if4079.galerihewann.MainActivity"
-    tools:viewBindingIgnore="true"/>
+    tools:viewBindingIgnore="true" />
